@@ -1,0 +1,5 @@
+{
+  "name": "BookFlix",
+  "description": "A Netflix-style application to browse, search, and track your personal book library using the Open Library API.",
+  "requestFramePermissions": []
+}
